@@ -15,6 +15,16 @@ background-color: white;
 font-family: sans-serif;
 }
 
+/*style for accordion content*/
+#content{
+text-align:center;
+width: 40%;
+float: left;
+margin:10px 10px 10px 10%;
+padding: 10px 10px 10px 10px;
+background-color: #DBDBDB;
+}
+
 #lisa {
 float: left;
 width: 17%;
